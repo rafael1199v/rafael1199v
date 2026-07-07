@@ -13,17 +13,6 @@
 
 ---
 
-## About
-
-I'm a software engineer based in **Bolivia** focused on **backend and full-stack development**. I design and ship APIs, event-driven services, and web/mobile UIs — most of my work runs in production through the projects I pin on my profile.
-
-- **Production-oriented stack** — Clean Architecture, CQRS, event-driven (AWS SQS + Lambda), OAuth/JWT, Docker, CI/CD
-- **Full-stack by default** — React 19 + TypeScript on the front, ASP.NET Core / Spring Boot on the back, Flutter for mobile
-- **I work well in teams** — Pull Shark ×3, Pair Extraordinaire, regular code review, async written communication
-- **Self-taught foundations** — most of what I know came from shipping, breaking, and rebuilding real projects
-
----
-
 ## Tech Stack
 
 **Primary — production experience**
@@ -59,6 +48,18 @@ I'm a software engineer based in **Bolivia** focused on **backend and full-stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+---
+
+
+## About
+
+I'm a software engineer based in **Bolivia** focused on **backend and full-stack development**. I design and ship APIs, event-driven services, and web/mobile UIs — most of my work runs in production through the projects I pin on my profile.
+
+- **Production-oriented stack** — Clean Architecture, CQRS, event-driven (AWS SQS + Lambda), OAuth/JWT, Docker, CI/CD
+- **Full-stack by default** — React 19 + TypeScript on the front, ASP.NET Core / Spring Boot on the back, Flutter for mobile
+- **I work well in teams** — Pull Shark ×3, Pair Extraordinaire, regular code review, async written communication
+- **Self-taught foundations** — most of what I know came from shipping, breaking, and rebuilding real projects
 
 ---
 
